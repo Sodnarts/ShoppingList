@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  ShoppingList
+
+  Created by Glenn Robert Strandos on 18/01/2022.
+  
+*/
+
+"Sign In" = "Sign in";
+"Sign Up" = "Sign up";
+"Today's dish:" = "Today's dish:";
+"Price" = "Price";
+"Please enter the total price of your last shopping cart" = "Please enter the total price of your last shopping cart";
+"Enter price" = "Enter price";
+"OK" = "OK";
+"Later" = "Later";
+"Not yet implemented.." = "Not yet implemented..";
+"Welcome to Shopping List" = "Welcome to Shopping List";
+"The app that makes shopping a little better!" = "The app that makes shopping a little better!";
+"Sign in using your email and password" = "Sign in using your email and password";
+"E-Mail" = "E-Mail";
+"Password" = "Password";
+"Sign up using your email and password" = "Sign up using your email and password";
+"First Name" = "First Name";
+"Welcome, %@!" = "Welcome, %@!";
+"To use the app you need to be registered in a household. Either join an existing household, or create one yourself." = "To use the app you need to be registered in a household. Either join an existing household, or create one yourself.";
+"Join" = "Join";
+"Create" = "Create";
+"Enter your household's code" = "Enter your household's code";
+"Code" = "Code";
+"Enter your house name" = "Enter your house name";
+"House name" = "House name";
+"Household" = "Household";
+"Shopped by %@" = "Shopped by %@";
+"Duration: %d" = "Duration: %d";
+"Items: %d" = "Items: %d";
+"Calendar" = "Calendar";
+"Home" = "Home";
+"List" = "List";
+"%d out of %d items" = "%d out of %d items";
+"Stop Shopping" = "Stop shopping";
+"Shop" = "Shop";
+"Receipts" = "Receipts";
+"Sign out" = "Sign out";
+"Settings" = "Settings";
+"Placeholder" = "Placeholder";

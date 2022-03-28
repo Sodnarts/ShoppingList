@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946361984543-qnh9dr8fi0pr43odcb5l60eq4afbmjjc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946361984543-qnh9dr8fi0pr43odcb5l60eq4afbmjjc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUowuUVeyR1FzSEEx13wWku-ojTHItj10</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946361984543</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sodnarts.ShoppingList</string>
+	<key>PROJECT_ID</key>
+	<string>sodnarts-react</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sodnarts-react.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946361984543:ios:b60ec1987ee79a99c8d72a</string>
+	<key>DATABASE_URL</key>
+	<string>https://sodnarts-react.firebaseio.com</string>
+</dict>
+</plist>

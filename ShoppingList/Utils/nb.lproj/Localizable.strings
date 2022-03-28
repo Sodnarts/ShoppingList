@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  ShoppingList
+
+  Created by Glenn Robert Strandos on 18/01/2022.
+  
+*/
+
+"Sign In" = "Logg inn";
+"Sign Up" = "Opprett bruker";
+"Today's dish:" = "Dagens rett:";
+"Price" = "Pris";
+"Please enter the total price of your last shopping cart" = "Vennligst skriv inn beløpet på det du nettopp handlet";
+"Enter price" = "Skriv inn prisen";
+"OK" = "OK";
+"Later" = "Senere";
+"Not yet implemented.." = "Ikke implementert enda..";
+"Welcome to Shopping List" = "Velkommen til Shopping List";
+"The app that makes shopping a little better!" = "Appen som gjør handleturen litt bedre!";
+"Sign in using your email and password" = "Logg inn ved å bruke e-posten og passordet ditt";
+"E-Mail" = "E-post";
+"Password" = "Passord";
+"Sign up using your email and password" = "Opprett en bruker ved å bruke e-posten og passordet ditt";
+"First Name" = "Fornavn";
+"Welcome, %@!" = "Velkommen, %@!";
+"To use the app you need to be registered in a household. Either join an existing household, or create one yourself." = "For å ta i bruk appen må du være registrert i en husstand. Enten bli med i en eksisterende husstand, eller opprett din egen.";
+"Join" = "Bli med";
+"Create" = "Opprett";
+"Enter your household's code" = "Oppgi koden til din husstand";
+"Code" = "Kode";
+"Enter your house name" = "Oppgi navnet på din husstand";
+"House name" = "Husstandsnavn";
+"Household" = "Husstand";
+"Shopped by %@" = "Handlet av %@";
+"Duration: %d" = "Varighet: %d";
+"Items: %d" = "Varer: %d";
+"Calendar" = "Kalender";
+"Home" = "Hjem";
+"List" = "Liste";
+"%d out of %d items" = "%d av %d varer";
+"Stop Shopping" = "Avslutt handletur";
+"Shop" = "Handle";
+"Receipts" = "Kvitteringer";
+"Sign out" = "Logg ut";
+"Settings" = "Innstillinger";
+"Placeholder" = "Plassholder";
